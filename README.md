@@ -15,19 +15,26 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![Demo video](https://github.com/egsui/iOSCodePathPreWork/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20-%202025-01-26%20at%2013.01.54.gif?raw=true)
 
 ## App Brainstorming (Step 4)
+* Instagram
+  * Easy to trim the videos
+  * Adjust the brightness and color temperature of images
+* YouTube
+  * Fast forward with a long press
+  * Set up a sleep timer
+* Retro
+  * Select the pictures in a specific time window
+  * Lead to the next page with a single press
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+At first, I accidentally had the UI button connected to other scene. Therefore, the application didn’t work as expected. After debugging from the error message, I found out that I needed to break the redundant connection to fix the issue.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Yu-Jing Wei]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
